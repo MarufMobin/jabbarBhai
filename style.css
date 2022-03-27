@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Avenir Next LT Pro', sans-serif;
+}
+
+article {
+    background-image: url('./media/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
